@@ -1,0 +1,44 @@
+/* *{
+    margin: 0;
+} */
+
+h1{
+    text-align: center;
+    width: 100%;
+    margin-top: 0;
+    
+}
+
+ol{
+    text-align: center;
+    list-style: none;
+    
+}
+
+a{
+    background-color: aquamarine;
+    padding: 2px;
+    color: red;
+    font-size: 20px;
+}
+
+h4, h5{
+    color: red;
+    text-align: center;
+
+}
+
+h3{
+    color: red;
+    border-bottom: 2px solid black;
+
+}
+
+h5{
+    border-top: 2px solid black;
+
+}
+
+img{
+    
+}
